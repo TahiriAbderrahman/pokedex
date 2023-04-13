@@ -22,5 +22,8 @@ To mark a Pokemon as a favorite, simply click on the star icon next to its name.
 Credits
 
 This app was created by Saydtahiri Abderrahman & Ennakhai Mounir using the PokeAPI. Special thanks to the PokeAPI http team for creating such a useful and comprehensive API.
-![image](https://user-images.githubusercontent.com/118965849/231721462-8cb0db5b-eb68-4018-acdd-6904bf5c2fb5.png)
-![image](https://user-images.githubusercontent.com/118965849/231721616-6ac871f9-4732-4e12-8ad1-b9df70af5d6d.png)
+
+
+![image](https://user-images.githubusercontent.com/118965849/231722379-5b08f507-0075-4e47-a71e-29e6b8072328.png)
+
+![image](https://user-images.githubusercontent.com/118965849/231722292-6d48102c-7d77-4340-a107-cf1cc850f37b.png)
