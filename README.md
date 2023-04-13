@@ -7,13 +7,13 @@ To install the app, simply download the source code and import it into your Java
 Features
 The app provides a variety of features to make it easy for users to browse and explore Pokemon data. These include:
 
-Pokemon Search: Users can search for specific Pokemon by name, ID, or type.
-Pokemon Stats: The app displays detailed stats for each Pokemon, including their health points, attack power, defense, and speed.
-Pokemon Types: Users can view each Pokemon's type, which determines its strengths and weaknesses in battle.
-Pokemon Evolution: The app shows the evolution chain for each Pokemon, so users can see how they evolve and which Pokemon they can evolve into.
-Favorites: Users can mark their favorite Pokemon for easy access in the future.
-How to Use
-Using the app is simple and straightforward. To search for a specific Pokemon, simply enter its name, ID, or type in the search bar. The app will display a list of matching results, which you can click on to view more information about the Pokemon.
+    Pokemon Search: Users can search for specific Pokemon by name, ID, or type.
+    Pokemon Stats: The app displays detailed stats for each Pokemon, including their health points, attack power, defense, and speed.
+    Pokemon Types: Users can view each Pokemon's type, which determines its strengths and weaknesses in battle.
+    Pokemon Evolution: The app shows the evolution chain for each Pokemon, so users can see how they evolve and which Pokemon they can evolve into.
+    Favorites: Users can mark their favorite Pokemon for easy access in the future.
+ How to Use
+ Using the app is simple and straightforward. To search for a specific Pokemon, simply enter its name, ID, or type in the search bar. The app will display a list of       matching results, which you can click on to view more information about the Pokemon.
 
 To view the stats for a specific Pokemon, click on its name or image. The app will display a detailed breakdown of the Pokemon's stats, including its abilities, moves, and base stats.
 
